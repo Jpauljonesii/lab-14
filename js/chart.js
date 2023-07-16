@@ -1,6 +1,4 @@
 'use strict';
-<<<<<<< HEAD
-=======
 
 let canvasElem = document.getElementById('chart');
 
@@ -12,7 +10,7 @@ let canvasElem = document.getElementById('chart');
  * - Call chart.js with the configuration and the canvasElem
  *
  */
+
 function renderChart() {}
 
 renderChart();
->>>>>>> 6ac8628ddbc8ea1cf1293845cac590d5fb6b2915
