@@ -1,0 +1,48 @@
+body {
+width: 100%;
+background-color: lightgrey;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+header {
+background-color: linen;
+text-align: center;
+border: 5px solid black;
+
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: .5rem;
+  margin-top: .5rem;
+}
+
+nav {
+  margin: auto;
+  padding: 1rem 0;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 1rem;
+  }
+
+nav li a {
+  border: 5px solid black;
+  color: black;
+  
+}
+main {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
+footer {
+  text-align: center;
+  font-weight: bold;
+
+}
